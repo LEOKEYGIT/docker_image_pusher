@@ -1,5 +1,6 @@
 nginx
-laradock/php-fpm
-laradock/workspace
 mysql
 redis
+docker-in-docker
+laradock/php-fpm
+laradock/workspace
