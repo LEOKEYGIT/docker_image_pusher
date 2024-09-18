@@ -1,6 +1,5 @@
 nginx
 mysql
 redis
-docker-in-docker
 laradock/php-fpm
 laradock/workspace
